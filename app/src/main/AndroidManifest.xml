@@ -6,6 +6,7 @@
     <!-- Aquí se definen los permisos, las actividades, los servicios, etc. -->
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
+
     <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
 
     <application
